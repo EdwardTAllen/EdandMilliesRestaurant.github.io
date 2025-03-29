@@ -203,12 +203,15 @@ footer li{
         height: 300px;
     }
 
+    nav ul{
+        
+
     nav li{
         font-size: 12px;
-        padding-right: 5px;
+        padding-right: 15px;
         padding-left: 15px;
-        margin-left: 10px;
-        margin-right: 30px;
+        margin-left: 5px;
+        margin-right: 10px;
     }
 
     #intro p{
